@@ -1,0 +1,186 @@
+17:06:03.550 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+17:06:03.715 [main] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+17:06:04.294 [main] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+17:06:04.295 [main] INFO  testCases.TC_001_AccRegTest - Providing customer data
+17:06:14.045 [main] INFO  testCases.TC_001_AccRegTest - Cliked on continue
+17:06:14.826 [main] INFO  testCases.TC_001_AccRegTest - Validating expected message
+17:06:14.840 [main] INFO  testCases.TC_001_AccRegTest - Finished TC_001_AccRegTest
+17:31:30.078 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+17:31:30.190 [main] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+17:31:30.553 [main] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+17:31:30.554 [main] INFO  testCases.TC_001_AccRegTest - Providing customer data
+17:31:38.083 [main] ERROR testCases.TC_001_AccRegTest - Test Failed
+17:31:51.645 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+17:31:51.761 [main] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+17:31:52.098 [main] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+17:31:52.099 [main] INFO  testCases.TC_001_AccRegTest - Providing customer data
+17:32:01.564 [main] INFO  testCases.TC_001_AccRegTest - Cliked on continue
+17:32:02.147 [main] INFO  testCases.TC_001_AccRegTest - Validating expected message
+17:32:02.153 [main] INFO  testCases.TC_001_AccRegTest - Finished TC_001_AccRegTest
+18:19:43.393 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+18:19:43.512 [main] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+18:19:43.905 [main] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+18:19:43.906 [main] INFO  testCases.TC_001_AccRegTest - Providing customer data
+18:19:53.377 [main] INFO  testCases.TC_001_AccRegTest - Cliked on continue
+18:19:53.952 [main] INFO  testCases.TC_001_AccRegTest - Validating expected message
+18:19:53.970 [main] INFO  testCases.TC_001_AccRegTest - Finished TC_001_AccRegTest
+18:22:28.423 [TestNG-tests-1] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+18:22:28.526 [TestNG-tests-1] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+18:22:29.166 [TestNG-tests-1] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+18:22:29.168 [TestNG-tests-1] INFO  testCases.TC_001_AccRegTest - Providing customer data
+18:22:31.732 [TestNG-tests-2] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+18:22:31.897 [TestNG-tests-2] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+18:22:32.742 [TestNG-tests-2] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+18:22:32.743 [TestNG-tests-2] INFO  testCases.TC_001_AccRegTest - Providing customer data
+18:22:33.642 [TestNG-tests-1] ERROR testCases.TC_001_AccRegTest - Test Failed
+18:22:37.237 [TestNG-tests-2] ERROR testCases.TC_001_AccRegTest - Test Failed
+18:23:23.970 [TestNG-tests-2] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+18:23:24.064 [TestNG-tests-1] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+18:23:24.155 [TestNG-tests-2] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+18:23:24.196 [TestNG-tests-1] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+18:23:24.712 [TestNG-tests-1] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+18:23:24.744 [TestNG-tests-2] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+18:23:24.748 [TestNG-tests-2] INFO  testCases.TC_001_AccRegTest - Providing customer data
+18:23:24.749 [TestNG-tests-1] INFO  testCases.TC_001_AccRegTest - Providing customer data
+18:23:29.259 [TestNG-tests-1] ERROR testCases.TC_001_AccRegTest - Test Failed
+18:23:29.262 [TestNG-tests-2] ERROR testCases.TC_001_AccRegTest - Test Failed
+18:28:20.009 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+18:28:20.112 [main] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+18:28:20.572 [main] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+18:28:20.573 [main] INFO  testCases.TC_001_AccRegTest - Providing customer data
+18:28:25.023 [main] ERROR testCases.TC_001_AccRegTest - Test Failed
+18:28:53.565 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+18:28:53.677 [main] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+18:28:54.061 [main] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+18:28:54.062 [main] INFO  testCases.TC_001_AccRegTest - Providing customer data
+18:29:03.553 [main] INFO  testCases.TC_001_AccRegTest - Cliked on continue
+18:29:04.054 [main] INFO  testCases.TC_001_AccRegTest - Validating expected message
+18:29:04.055 [main] INFO  testCases.TC_001_AccRegTest - Finished TC_001_AccRegTest
+18:30:03.024 [TestNG-tests-1] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+18:30:03.567 [TestNG-tests-1] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+18:30:03.831 [TestNG-tests-2] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+18:30:04.084 [TestNG-tests-2] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+18:30:04.296 [TestNG-tests-1] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+18:30:04.314 [TestNG-tests-1] INFO  testCases.TC_001_AccRegTest - Providing customer data
+18:30:04.849 [TestNG-tests-2] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+18:30:04.849 [TestNG-tests-2] INFO  testCases.TC_001_AccRegTest - Providing customer data
+18:30:08.881 [TestNG-tests-1] ERROR testCases.TC_001_AccRegTest - Test Failed
+18:30:14.456 [TestNG-tests-2] INFO  testCases.TC_001_AccRegTest - Cliked on continue
+18:30:15.177 [TestNG-tests-2] INFO  testCases.TC_001_AccRegTest - Validating expected message
+18:30:15.177 [TestNG-tests-2] INFO  testCases.TC_001_AccRegTest - Finished TC_001_AccRegTest
+17:47:18.249 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+17:47:23.877 [main] ERROR testCases.TC_001_AccRegTest - Test Failed
+17:48:13.919 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+17:48:23.968 [main] ERROR testCases.TC_001_AccRegTest - Test Failed
+17:49:51.009 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+17:49:57.635 [main] ERROR testCases.TC_001_AccRegTest - Test Failed
+17:51:21.088 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+17:51:21.196 [main] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+17:51:21.576 [main] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+17:51:21.601 [main] INFO  testCases.TC_001_AccRegTest - Providing customer data
+17:51:31.101 [main] INFO  testCases.TC_001_AccRegTest - Cliked on continue
+17:51:31.747 [main] INFO  testCases.TC_001_AccRegTest - Validating expected message
+17:51:31.751 [main] INFO  testCases.TC_001_AccRegTest - Finished TC_001_AccRegTest
+17:53:17.794 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+17:53:17.893 [main] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+17:53:18.303 [main] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+17:53:18.304 [main] INFO  testCases.TC_001_AccRegTest - Providing customer data
+17:53:27.699 [main] INFO  testCases.TC_001_AccRegTest - Cliked on continue
+17:53:37.748 [main] INFO  testCases.TC_001_AccRegTest - Validating expected message
+19:31:27.074 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+19:31:27.216 [main] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+19:31:27.560 [main] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+19:31:27.590 [main] INFO  testCases.TC_001_AccRegTest - Providing customer data
+19:31:31.963 [main] ERROR testCases.TC_001_AccRegTest - Test Failed
+19:31:35.258 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+19:31:35.339 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount
+19:31:35.714 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+19:31:35.718 [main] INFO  testCases.TC_002_LoginTest - Providing login details
+19:31:35.953 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+19:31:36.350 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002_LoginTest
+19:31:59.426 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+19:31:59.524 [main] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+19:31:59.976 [main] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+19:31:59.978 [main] INFO  testCases.TC_001_AccRegTest - Providing customer data
+19:32:09.373 [main] INFO  testCases.TC_001_AccRegTest - Cliked on continue
+19:32:19.394 [main] INFO  testCases.TC_001_AccRegTest - Validating expected message
+19:32:21.270 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+19:32:21.369 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount
+19:32:21.818 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+19:32:21.819 [main] INFO  testCases.TC_002_LoginTest - Providing login details
+19:32:22.036 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+19:32:22.417 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002_LoginTest
+19:32:52.625 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+19:32:52.733 [main] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+19:32:53.130 [main] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+19:32:53.131 [main] INFO  testCases.TC_001_AccRegTest - Providing customer data
+19:33:02.601 [main] INFO  testCases.TC_001_AccRegTest - Cliked on continue
+19:33:03.070 [main] INFO  testCases.TC_001_AccRegTest - Validating expected message
+19:33:03.072 [main] INFO  testCases.TC_001_AccRegTest - Finished TC_001_AccRegTest
+19:33:04.815 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+19:33:04.912 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount
+19:33:05.302 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+19:33:05.303 [main] INFO  testCases.TC_002_LoginTest - Providing login details
+19:33:05.526 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+19:33:05.902 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002_LoginTest
+20:33:55.765 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:34:06.475 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+20:34:06.485 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:34:17.038 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+20:34:17.040 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:34:27.593 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+20:34:27.595 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:34:38.124 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+20:34:38.126 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:28:20.551 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+22:28:20.658 [main] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+22:28:21.287 [main] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+22:28:21.290 [main] INFO  testCases.TC_001_AccRegTest - Providing customer data
+22:28:30.781 [main] INFO  testCases.TC_001_AccRegTest - Cliked on continue
+22:28:31.258 [main] INFO  testCases.TC_001_AccRegTest - Validating expected message
+22:28:31.320 [main] INFO  testCases.TC_001_AccRegTest - Finished TC_001_AccRegTest
+22:28:32.970 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+22:28:33.063 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount
+22:28:33.526 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+22:28:33.527 [main] INFO  testCases.TC_002_LoginTest - Providing login details
+22:28:33.743 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+22:28:34.132 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002_LoginTest
+11:59:45.377 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+11:59:45.560 [main] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+11:59:46.523 [main] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+11:59:46.524 [main] INFO  testCases.TC_001_AccRegTest - Providing customer data
+11:59:56.289 [main] INFO  testCases.TC_001_AccRegTest - Cliked on continue
+11:59:57.424 [main] INFO  testCases.TC_001_AccRegTest - Validating expected message
+11:59:57.428 [main] INFO  testCases.TC_001_AccRegTest - Finished TC_001_AccRegTest
+11:59:59.839 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+11:59:59.975 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount
+12:00:00.578 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+12:00:00.582 [main] INFO  testCases.TC_002_LoginTest - Providing login details
+12:00:00.957 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+12:00:01.688 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002_LoginTest
+12:45:40.842 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+12:45:41.002 [main] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+12:45:41.376 [main] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+12:45:41.378 [main] INFO  testCases.TC_001_AccRegTest - Providing customer data
+12:45:50.891 [main] INFO  testCases.TC_001_AccRegTest - Cliked on continue
+12:45:51.345 [main] INFO  testCases.TC_001_AccRegTest - Validating expected message
+12:45:51.347 [main] INFO  testCases.TC_001_AccRegTest - Finished TC_001_AccRegTest
+12:45:52.970 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+12:45:53.068 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount
+12:45:53.420 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+12:45:53.437 [main] INFO  testCases.TC_002_LoginTest - Providing login details
+12:45:53.667 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+12:45:54.071 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002_LoginTest
+12:59:12.060 [main] INFO  testCases.TC_001_AccRegTest - Starting TC_001_AccRegTest
+12:59:12.176 [main] INFO  testCases.TC_001_AccRegTest - Clicked on my account
+12:59:12.563 [main] INFO  testCases.TC_001_AccRegTest - Clicked on register link
+12:59:12.564 [main] INFO  testCases.TC_001_AccRegTest - Providing customer data
+12:59:22.037 [main] INFO  testCases.TC_001_AccRegTest - Cliked on continue
+12:59:22.486 [main] INFO  testCases.TC_001_AccRegTest - Validating expected message
+12:59:22.488 [main] INFO  testCases.TC_001_AccRegTest - Finished TC_001_AccRegTest
+12:59:24.055 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+12:59:24.149 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount
+12:59:24.521 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+12:59:24.522 [main] INFO  testCases.TC_002_LoginTest - Providing login details
+12:59:24.734 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+12:59:25.095 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002_LoginTest
